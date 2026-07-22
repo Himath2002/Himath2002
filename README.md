@@ -51,14 +51,6 @@ I can move from requirements and architecture into implementation, data, debuggi
   <img src="https://img.shields.io/badge/Docker-reproducible%20environments-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
-## Live engineering pulse
-
-This signal is generated from my public GitHub data and refreshed automatically every day. It is intentionally factual: no grades, vanity ranks, or inflated proficiency scores.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Himath2002/Himath2002/live-profile/assets/live-signal.svg" alt="Live public GitHub engineering signal for Himath Ahangama" width="100%">
-</p>
-
 ## The standard I work toward
 
 - **Understand before changing.** Read the behavior, constraints, and failure modes before reaching for a rewrite.
