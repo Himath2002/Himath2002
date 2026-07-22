@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="650" viewBox="0 0 1440 650" role="img" aria-labelledby="title desc">
+  <title id="title">Himath's engineering spectrum</title>
+  <desc id="desc">Five connected capabilities: create, engineer, assure, protect, and deliver.</desc>
+  <defs>
+    <filter id="cardShadow" x="-15%" y="-15%" width="130%" height="145%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#12312F" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="650" rx="32" fill="#F1F7F5"/>
+  <text x="72" y="76" fill="#163D39" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="760">One engineer, the full problem lifecycle</text>
+  <text x="72" y="112" fill="#56706D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">I move where the problem needs me—from first idea to dependable operation.</text>
+
+  <path d="M170 242H1270" fill="none" stroke="#B8D5CF" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#168C7D">
+    <circle cx="170" cy="242" r="8"/>
+    <circle cx="445" cy="242" r="8"/>
+    <circle cx="720" cy="242" r="8"/>
+    <circle cx="995" cy="242" r="8"/>
+    <circle cx="1270" cy="242" r="8"/>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" filter="url(#cardShadow)">
+    <g transform="translate(62 170)">
+      <rect width="216" height="310" rx="24" fill="#FFFFFF" stroke="#CBE1DC"/>
+      <circle cx="108" cy="72" r="42" fill="#DDF4EC"/>
+      <path d="M90 73h36M108 55v36" stroke="#168C7D" stroke-width="7" stroke-linecap="round"/>
+      <text x="108" y="145" fill="#168C7D" font-size="15" font-weight="780" letter-spacing="2" text-anchor="middle">CREATE</text>
+      <text x="108" y="183" fill="#173C3A" font-size="20" font-weight="760" text-anchor="middle">Shape the idea</text>
+      <text x="108" y="224" fill="#58716D" font-size="16" text-anchor="middle">Web · mobile</text>
+      <text x="108" y="251" fill="#58716D" font-size="16" text-anchor="middle">apps · games</text>
+    </g>
+
+    <g transform="translate(337 170)">
+      <rect width="216" height="310" rx="24" fill="#FFFFFF" stroke="#CBE1DC"/>
+      <circle cx="108" cy="72" r="42" fill="#E5F0EF"/>
+      <path d="M84 84l24-30 24 30M92 75h32" fill="none" stroke="#2A716B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="108" y="145" fill="#2A716B" font-size="15" font-weight="780" letter-spacing="2" text-anchor="middle">ENGINEER</text>
+      <text x="108" y="183" fill="#173C3A" font-size="20" font-weight="760" text-anchor="middle">Build the system</text>
+      <text x="108" y="224" fill="#58716D" font-size="16" text-anchor="middle">Logic · architecture</text>
+      <text x="108" y="251" fill="#58716D" font-size="16" text-anchor="middle">data · integrations</text>
+    </g>
+
+    <g transform="translate(612 170)">
+      <rect width="216" height="310" rx="24" fill="#FFFFFF" stroke="#CBE1DC"/>
+      <circle cx="108" cy="72" r="42" fill="#EFEAFA"/>
+      <path d="M87 72l14 14 30-33" fill="none" stroke="#6D5BD0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="108" y="145" fill="#6D5BD0" font-size="15" font-weight="780" letter-spacing="2" text-anchor="middle">ASSURE</text>
+      <text x="108" y="183" fill="#173C3A" font-size="20" font-weight="760" text-anchor="middle">Prove the behavior</text>
+      <text x="108" y="224" fill="#58716D" font-size="16" text-anchor="middle">Testing · QA</text>
+      <text x="108" y="251" fill="#58716D" font-size="16" text-anchor="middle">debugging · review</text>
+    </g>
+
+    <g transform="translate(887 170)">
+      <rect width="216" height="310" rx="24" fill="#FFFFFF" stroke="#CBE1DC"/>
+      <circle cx="108" cy="72" r="42" fill="#FFF0EB"/>
+      <path d="M108 48l27 11v21c0 18-12 31-27 38-15-7-27-20-27-38V59Z" fill="none" stroke="#D35A41" stroke-width="6" stroke-linejoin="round"/>
+      <text x="108" y="145" fill="#D35A41" font-size="15" font-weight="780" letter-spacing="2" text-anchor="middle">PROTECT</text>
+      <text x="108" y="183" fill="#173C3A" font-size="20" font-weight="760" text-anchor="middle">Reduce the risk</text>
+      <text x="108" y="224" fill="#58716D" font-size="16" text-anchor="middle">Security mindset</text>
+      <text x="108" y="251" fill="#58716D" font-size="16" text-anchor="middle">privacy · integrity</text>
+    </g>
+
+    <g transform="translate(1162 170)">
+      <rect width="216" height="310" rx="24" fill="#FFFFFF" stroke="#CBE1DC"/>
+      <circle cx="108" cy="72" r="42" fill="#E8F0F8"/>
+      <path d="M81 87h54M93 87V61h30v26M102 61V50h12v11" fill="none" stroke="#2F7393" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="108" y="145" fill="#2F7393" font-size="15" font-weight="780" letter-spacing="2" text-anchor="middle">DELIVER</text>
+      <text x="108" y="183" fill="#173C3A" font-size="20" font-weight="760" text-anchor="middle">Make it usable</text>
+      <text x="108" y="224" fill="#58716D" font-size="16" text-anchor="middle">Git · CI · releases</text>
+      <text x="108" y="251" fill="#58716D" font-size="16" text-anchor="middle">docs · maintenance</text>
+    </g>
+  </g>
+
+  <rect x="72" y="526" width="1296" height="62" rx="31" fill="#173F3B"/>
+  <text x="720" y="563" fill="#EAF5F2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1.4" text-anchor="middle">ADAPTABLE BY DEFAULT  ·  CURIOUS IN UNFAMILIAR STACKS  ·  ACCOUNTABLE FOR THE RESULT</text>
+</svg>

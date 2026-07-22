@@ -1,62 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
-  <title id="title">Himath Ahangama software engineering portfolio</title>
-  <desc id="desc">A professional portfolio banner highlighting reliable software, thoughtful interfaces, and verified engineering.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="540" viewBox="0 0 1440 540" role="img" aria-labelledby="title desc">
+  <title id="title">Himath Ahangama — full-spectrum software engineering</title>
+  <desc id="desc">A professional banner presenting an adaptable engineer who can create, debug, assure, protect, and deliver software.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071C24"/>
-      <stop offset="0.55" stop-color="#0D3038"/>
-      <stop offset="1" stop-color="#145148"/>
+      <stop offset="0" stop-color="#061A23"/>
+      <stop offset="0.56" stop-color="#0C3038"/>
+      <stop offset="1" stop-color="#154D47"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#73E6C3"/>
       <stop offset="1" stop-color="#B8E860"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#020B0F" flood-opacity="0.35"/>
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#020B0F" flood-opacity="0.36"/>
     </filter>
   </defs>
 
-  <rect width="1440" height="520" rx="34" fill="url(#background)"/>
-  <circle cx="1300" cy="-28" r="250" fill="#56D5B0" opacity="0.08"/>
-  <circle cx="1190" cy="520" r="210" fill="#E66C52" opacity="0.08"/>
-  <path d="M76 86H224" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+  <rect width="1440" height="540" rx="34" fill="url(#background)"/>
+  <circle cx="1320" cy="-38" r="250" fill="#56D5B0" opacity="0.08"/>
+  <circle cx="1160" cy="552" r="230" fill="#E66C52" opacity="0.07"/>
+  <path d="M76 80H242" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
 
-  <text x="76" y="142" fill="#9DEFD7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="4">SOFTWARE ENGINEERING PORTFOLIO</text>
-  <text x="76" y="226" fill="#F7FBFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="760">Himath Ahangama</text>
-  <text x="76" y="283" fill="#C8D9D7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="450">Reliable logic. Clear boundaries. Thoughtful interfaces.</text>
+  <text x="76" y="136" fill="#9DEFD7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3.5">FULL-SPECTRUM SOFTWARE ENGINEERING</text>
+  <text x="76" y="220" fill="#F7FBFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="760">Himath Ahangama</text>
+  <text x="76" y="278" fill="#D2E2DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="450">Build what is missing. Improve what exists.</text>
+  <text x="76" y="316" fill="#D2E2DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="450">Verify what matters.</text>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="650">
-    <rect x="76" y="340" width="136" height="48" rx="24" fill="#143F43" stroke="#4F9488"/>
-    <text x="144" y="370" fill="#E6F4F1" text-anchor="middle">ANDROID</text>
-    <rect x="226" y="340" width="154" height="48" rx="24" fill="#143F43" stroke="#4F9488"/>
-    <text x="303" y="370" fill="#E6F4F1" text-anchor="middle">ALGORITHMS</text>
-    <rect x="394" y="340" width="128" height="48" rx="24" fill="#143F43" stroke="#4F9488"/>
-    <text x="458" y="370" fill="#E6F4F1" text-anchor="middle">SYSTEMS</text>
-    <rect x="536" y="340" width="104" height="48" rx="24" fill="#143F43" stroke="#4F9488"/>
-    <text x="588" y="370" fill="#E6F4F1" text-anchor="middle">DATA</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">
+    <rect x="76" y="370" width="112" height="46" rx="23" fill="#143F43" stroke="#4F9488"/>
+    <text x="132" y="399" fill="#EAF6F3" text-anchor="middle">CREATE</text>
+    <rect x="202" y="370" width="112" height="46" rx="23" fill="#143F43" stroke="#4F9488"/>
+    <text x="258" y="399" fill="#EAF6F3" text-anchor="middle">DEBUG</text>
+    <rect x="328" y="370" width="112" height="46" rx="23" fill="#143F43" stroke="#4F9488"/>
+    <text x="384" y="399" fill="#EAF6F3" text-anchor="middle">ASSURE</text>
+    <rect x="454" y="370" width="112" height="46" rx="23" fill="#143F43" stroke="#4F9488"/>
+    <text x="510" y="399" fill="#EAF6F3" text-anchor="middle">PROTECT</text>
+    <rect x="580" y="370" width="112" height="46" rx="23" fill="#143F43" stroke="#4F9488"/>
+    <text x="636" y="399" fill="#EAF6F3" text-anchor="middle">DELIVER</text>
   </g>
 
-  <g transform="translate(900 82)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
-    <rect width="450" height="356" rx="28" fill="#F5FAF8"/>
-    <circle cx="44" cy="42" r="7" fill="#E66C52"/>
-    <circle cx="68" cy="42" r="7" fill="#EFB957"/>
-    <circle cx="92" cy="42" r="7" fill="#73CDAE"/>
-    <text x="42" y="98" fill="#173C3A" font-size="17" font-weight="750" letter-spacing="2">ENGINEERING LOOP</text>
+  <text x="76" y="470" fill="#9CB8B3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650" letter-spacing="1.6">WEB  ·  MOBILE  ·  APPLICATIONS  ·  GAMES  ·  SYSTEMS  ·  DATA  ·  QUALITY  ·  SECURITY</text>
 
-    <g font-size="20" font-weight="700">
-      <rect x="42" y="128" width="366" height="50" rx="14" fill="#DDF4EC"/>
-      <circle cx="70" cy="153" r="12" fill="#147A70"/>
-      <text x="98" y="160" fill="#173C3A">Design the boundary</text>
+  <g transform="translate(936 70)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect width="420" height="400" rx="30" fill="#F6FAF9"/>
+    <circle cx="38" cy="36" r="7" fill="#E66C52"/>
+    <circle cx="62" cy="36" r="7" fill="#EFB957"/>
+    <circle cx="86" cy="36" r="7" fill="#73CDAE"/>
+    <text x="210" y="92" fill="#426A65" font-size="14" font-weight="750" letter-spacing="2.2" text-anchor="middle">PROBLEM-TO-OUTCOME LOOP</text>
 
-      <rect x="42" y="190" width="366" height="50" rx="14" fill="#E7F2F0"/>
-      <circle cx="70" cy="215" r="12" fill="#238B82"/>
-      <text x="98" y="222" fill="#173C3A">Implement the behavior</text>
-
-      <rect x="42" y="252" width="366" height="50" rx="14" fill="#FFF0EB"/>
-      <circle cx="70" cy="277" r="12" fill="#E66C52"/>
-      <text x="98" y="284" fill="#173C3A">Verify and explain</text>
+    <g fill="none" stroke="#A9CBC4" stroke-width="3">
+      <path d="M210 152L112 208L112 314L210 366L308 314L308 208Z"/>
     </g>
 
-    <text x="42" y="330" fill="#47706C" font-size="15" font-weight="600">BUILD  •  CHECK  •  DOCUMENT  •  SHIP</text>
+    <circle cx="210" cy="258" r="62" fill="#153F3B"/>
+    <text x="210" y="250" fill="#9DEFD7" font-size="13" font-weight="750" letter-spacing="2" text-anchor="middle">UNDERSTAND</text>
+    <text x="210" y="279" fill="#FFFFFF" font-size="23" font-weight="780" text-anchor="middle">SOLVE</text>
+
+    <g font-size="13" font-weight="760" text-anchor="middle">
+      <circle cx="210" cy="142" r="35" fill="#DDF4EC" stroke="#75BFAF"/>
+      <text x="210" y="147" fill="#14584F">CREATE</text>
+
+      <circle cx="108" cy="208" r="35" fill="#E6F1F0" stroke="#8CB8B2"/>
+      <text x="108" y="213" fill="#245A55">MODEL</text>
+
+      <circle cx="108" cy="316" r="35" fill="#EFEAFA" stroke="#B5A8DA"/>
+      <text x="108" y="321" fill="#5B4B92">ASSURE</text>
+
+      <circle cx="210" cy="370" r="35" fill="#FFF0EB" stroke="#E9AD9E"/>
+      <text x="210" y="375" fill="#A84834">PROTECT</text>
+
+      <circle cx="312" cy="316" r="35" fill="#E8F0F8" stroke="#A7BCD1"/>
+      <text x="312" y="321" fill="#315E83">SHIP</text>
+
+      <circle cx="312" cy="208" r="35" fill="#EEF5D9" stroke="#BCD47B"/>
+      <text x="312" y="213" fill="#567117">LEARN</text>
+    </g>
   </g>
 </svg>

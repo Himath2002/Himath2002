@@ -1,57 +1,77 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Himath Ahangama — software engineering portfolio" width="100%">
+  <img src="assets/profile-hero.svg" alt="Himath Ahangama — full-spectrum software engineering" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Himath2002?tab=repositories"><img src="https://img.shields.io/badge/portfolio-6%20engineering%20case%20studies-0F766E" alt="Six engineering case studies"></a>
-  <img src="https://img.shields.io/badge/focus-reliable%20software-173F4F" alt="Reliable software">
-  <img src="https://img.shields.io/badge/practice-build%20%C2%B7%20verify%20%C2%B7%20document-DC694F" alt="Build, verify, document">
+  <img src="https://img.shields.io/badge/approach-adaptable%20problem%20solver-0F766E" alt="Adaptable problem solver">
+  <img src="https://img.shields.io/badge/scope-idea%20to%20reliable%20delivery-173F4F" alt="From idea to reliable delivery">
+  <img src="https://img.shields.io/badge/mindset-build%20%C2%B7%20improve%20%C2%B7%20assure-DC694F" alt="Build, improve, and assure">
 </p>
 
 ## Hello, I’m Himath
 
-I’m a Software Engineering undergraduate interested in the point where correct logic, maintainable structure, and thoughtful user experience meet. This profile documents six projects across Android, algorithms, systems programming, and relational data engineering.
+I’m a Software Engineering undergraduate who enjoys solving the whole problem—not only writing the first version of the code.
 
-Each repository is presented as an engineering case study: the scope is explicit, the setup is reproducible, the architecture is visible, and the claims are backed by focused verification.
+I can move from requirements and architecture into implementation, data, debugging, testing, security-aware review, automation, and delivery. I’m deliberately building range across web, mobile, applications, games, systems, databases, quality engineering, and cybersecurity because useful engineers need to understand how the pieces affect one another.
+
+**No single technology defines me. Clear thinking, dependable execution, and the ability to learn the next one do.**
 
 <p align="center">
-  <img src="assets/portfolio-map.svg" alt="Portfolio map covering Android experiences, algorithms and data structures, C systems, and relational data integrity" width="100%">
+  <img src="assets/engineering-spectrum.svg" alt="Himath's engineering spectrum from creation through delivery" width="100%">
 </p>
 
-## Selected work
+## Where I add value
 
-| Project | Engineering focus | Evidence you can inspect |
-| --- | --- | --- |
-| [MealMetric Android](https://github.com/Himath2002/mealmetric-android) | Privacy-minded meal journal with Java, Room, Retrofit, Material 3, and a complete offline path | Lifecycle-aware state, repository boundary, local-first data, CI, and release `v1.1.1` |
-| [Gridline Four](https://github.com/Himath2002/gridline-four-android) | Configurable offline strategy game with a pure Java rules engine | Deterministic game logic, ViewModel state, Android lint, unit tests, and release `v1.0.0` |
-| [AeroRoute Algorithms](https://github.com/Himath2002/aeroroute-algorithms) | Route-planning lab built on handwritten structures and algorithms | Bounded BFS, custom collections, three verified sorts, coverage gates, and release `v1.0.0` |
-| [PodiumDB](https://github.com/Himath2002/podiumdb-mysql) | Integrity-first sports analytics system on MySQL 8.4 | Normalized schema, constraints, routines, audit trail, typed Python CLI, and real MySQL CI |
-| [Terminal Pursuit](https://github.com/Himath2002/terminal-pursuit-c) | Turn-based ASCII pursuit game in portable C11 | Explicit state, immediate POSIX input, strict warnings, sanitizer checks, and zero dependencies |
-| [Pursuit Rewind](https://github.com/Himath2002/pursuit-rewind-c) | Replayable grid simulation with toroidal movement and state history | Modular C boundaries, robust map parsing, deterministic rewind, sanitizers, and release `v1.0.0` |
+| Situation | How I approach it |
+| --- | --- |
+| **An idea needs a first working system** | Clarify the real requirement, model the solution, build the smallest complete path, and leave a foundation another engineer can understand. |
+| **Existing software is failing or difficult to change** | Reproduce the problem, trace causes rather than symptoms, protect existing behavior, and refactor only where the payoff is clear. |
+| **Quality needs to become intentional** | Turn expected behavior into checks, cover edge cases and failure paths, improve testability, and make QA evidence visible. |
+| **Data or security carries risk** | Define trust boundaries, validate inputs, protect integrity and privacy, review dependencies, and prefer secure defaults. |
+| **Working code needs to become a deliverable** | Use clean Git history, focused CI, reproducible setup, practical documentation, release notes, and honest limitations. |
+| **The stack is unfamiliar** | Learn from first principles, read the system before changing it, verify assumptions early, and adapt without pretending certainty. |
 
-## How I approach engineering
-
-- **Make boundaries visible.** UI, domain logic, persistence, integration, and infrastructure should have distinct responsibilities.
-- **Verify behavior, not appearances.** Tests focus on invariants, edge cases, failure paths, and the logic a reviewer cannot validate from screenshots.
-- **Document the real system.** Commands, diagrams, inputs, outputs, limitations, and security notes are checked against the implementation.
-- **Treat maintenance as part of delivery.** Repositories use focused CI, protected main branches, dependency monitoring, security policies, and versioned releases.
-- **Keep claims proportional to evidence.** Portfolio polish should clarify the work, never exaggerate its scope.
-
-## Toolbelt
+## Engineering toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Android-Material%203-3DDC84?logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/C-C11-00599C?logo=c&logoColor=white" alt="C11">
-  <img src="https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Python-typed%20CLI-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Gradle-reproducible%20builds-02303A?logo=gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Docker-local%20environments-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Java-application%20engineering-ED8B00?logo=openjdk&logoColor=white" alt="Java application engineering">
+  <img src="https://img.shields.io/badge/Python-automation%20%26%20tooling-3776AB?logo=python&logoColor=white" alt="Python automation and tooling">
+  <img src="https://img.shields.io/badge/C-systems%20foundations-00599C?logo=c&logoColor=white" alt="C systems foundations">
+  <img src="https://img.shields.io/badge/Android-mobile%20experiences-3DDC84?logo=android&logoColor=white" alt="Android mobile experiences">
+  <img src="https://img.shields.io/badge/Web-interfaces%20%26%20services-E34F26?logo=html5&logoColor=white" alt="Web interfaces and services">
+  <img src="https://img.shields.io/badge/SQL-data%20modelling-4479A1?logo=mysql&logoColor=white" alt="SQL data modelling">
 </p>
 
-## Current direction
+<p>
+  <img src="https://img.shields.io/badge/Testing-behaviour%20%26%20edge%20cases-6D5BD0" alt="Testing behavior and edge cases">
+  <img src="https://img.shields.io/badge/QA-reproducible%20evidence-845EC2" alt="Quality assurance">
+  <img src="https://img.shields.io/badge/Debugging-cause%20before%20symptom-D35A41" alt="Root-cause debugging">
+  <img src="https://img.shields.io/badge/Security-threat--aware%20engineering-173F4F?logo=githubsecuritylab&logoColor=white" alt="Security-aware engineering">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%20%26%20automation-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Docker-reproducible%20environments-2496ED?logo=docker&logoColor=white" alt="Docker">
+</p>
 
-I’m continuing to deepen my work in Android architecture, algorithm design, systems programming, and relational data integrity—while sharpening the documentation and delivery practices that make software easy to review and maintain.
+## Live engineering pulse
 
-The pinned repositories below are the best place to start. Each one includes a project-specific walkthrough, architecture visual, reproducible commands, and an honest account of scope and trade-offs.
+This signal is generated from my public GitHub data and refreshed automatically every day. It is intentionally factual: no grades, vanity ranks, or inflated proficiency scores.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Himath2002/Himath2002/live-profile/assets/live-signal.svg" alt="Live public GitHub engineering signal for Himath Ahangama" width="100%">
+</p>
+
+## The standard I work toward
+
+- **Understand before changing.** Read the behavior, constraints, and failure modes before reaching for a rewrite.
+- **Design visible boundaries.** Keep interface, domain logic, data, integrations, and infrastructure understandable.
+- **Make quality observable.** Use tests, static analysis, CI, and reproducible commands to replace “it should work” with evidence.
+- **Treat security as engineering.** Validate inputs, minimize exposure, protect data integrity, and keep dependencies reviewable.
+- **Document the real system.** Explain setup, decisions, trade-offs, and limitations that actually exist in the implementation.
+- **Finish professionally.** A solution is not complete until someone else can inspect, run, maintain, and trust it.
+
+## Always expanding the range
+
+The repositories pinned below are evidence of this approach in different problem spaces—not the boundary of what I can do. More web, application, game, quality, security, data, and systems work will join them as it is ready to be reviewed professionally.
+
+<p align="center">
+  <a href="https://github.com/Himath2002?tab=repositories"><strong>Explore the repositories →</strong></a>
+</p>

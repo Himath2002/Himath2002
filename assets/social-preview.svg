@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Himath Ahangama — full-spectrum software engineering</title>
+  <desc id="desc">Social preview for an adaptable engineer working across the complete software lifecycle.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061A23"/>
+      <stop offset="0.58" stop-color="#0C3038"/>
+      <stop offset="1" stop-color="#154D47"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#73E6C3"/>
+      <stop offset="1" stop-color="#B8E860"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#background)"/>
+  <circle cx="1190" cy="-38" r="290" fill="#56D5B0" opacity="0.08"/>
+  <circle cx="1040" cy="680" r="270" fill="#E66C52" opacity="0.08"/>
+  <path d="M72 84H236" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+
+  <text x="72" y="142" fill="#9DEFD7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3.4">FULL-SPECTRUM SOFTWARE ENGINEERING</text>
+  <text x="72" y="230" fill="#F7FBFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="780">Himath Ahangama</text>
+  <text x="72" y="292" fill="#D2E2DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28">Build what is missing. Improve what exists.</text>
+  <text x="72" y="334" fill="#D2E2DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28">Verify what matters.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="730" text-anchor="middle">
+    <rect x="72" y="396" width="132" height="48" rx="24" fill="#16433F" stroke="#4F9488"/>
+    <text x="138" y="426" fill="#ECF7F4">CREATE</text>
+    <rect x="218" y="396" width="132" height="48" rx="24" fill="#16433F" stroke="#4F9488"/>
+    <text x="284" y="426" fill="#ECF7F4">DEBUG</text>
+    <rect x="364" y="396" width="132" height="48" rx="24" fill="#16433F" stroke="#4F9488"/>
+    <text x="430" y="426" fill="#ECF7F4">ASSURE</text>
+    <rect x="510" y="396" width="132" height="48" rx="24" fill="#16433F" stroke="#4F9488"/>
+    <text x="576" y="426" fill="#ECF7F4">PROTECT</text>
+    <rect x="656" y="396" width="132" height="48" rx="24" fill="#16433F" stroke="#4F9488"/>
+    <text x="722" y="426" fill="#ECF7F4">DELIVER</text>
+  </g>
+
+  <g transform="translate(928 128)" font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <circle cx="148" cy="148" r="146" fill="#F6FAF9" opacity="0.98"/>
+    <circle cx="148" cy="148" r="70" fill="#153F3B"/>
+    <text x="148" y="142" fill="#9DEFD7" font-size="13" font-weight="750" letter-spacing="2">UNDERSTAND</text>
+    <text x="148" y="174" fill="#FFFFFF" font-size="27" font-weight="800">SOLVE</text>
+    <g font-size="12" font-weight="780">
+      <circle cx="148" cy="36" r="34" fill="#DDF4EC" stroke="#75BFAF"/>
+      <text x="148" y="41" fill="#14584F">CREATE</text>
+      <circle cx="47" cy="105" r="34" fill="#E6F1F0" stroke="#8CB8B2"/>
+      <text x="47" y="110" fill="#245A55">MODEL</text>
+      <circle cx="47" cy="217" r="34" fill="#EFEAFA" stroke="#B5A8DA"/>
+      <text x="47" y="222" fill="#5B4B92">ASSURE</text>
+      <circle cx="148" cy="260" r="34" fill="#FFF0EB" stroke="#E9AD9E"/>
+      <text x="148" y="265" fill="#A84834">PROTECT</text>
+      <circle cx="249" cy="217" r="34" fill="#E8F0F8" stroke="#A7BCD1"/>
+      <text x="249" y="222" fill="#315E83">SHIP</text>
+      <circle cx="249" cy="105" r="34" fill="#EEF5D9" stroke="#BCD47B"/>
+      <text x="249" y="110" fill="#567117">LEARN</text>
+    </g>
+  </g>
+
+  <text x="72" y="548" fill="#9CB8B3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650" letter-spacing="1.5">WEB  ·  MOBILE  ·  APPS  ·  GAMES  ·  SYSTEMS  ·  DATA  ·  QA  ·  SECURITY</text>
+  <text x="72" y="588" fill="#779892" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="620">github.com/Himath2002</text>
+</svg>
