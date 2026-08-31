@@ -8,9 +8,15 @@
   <img src="https://img.shields.io/badge/mindset-build%20%C2%B7%20improve%20%C2%B7%20assure-DC694F" alt="Build, improve, and assure">
 </p>
 
+<p align="center">
+  <a href="https://himath2002.github.io/"><strong>Open the live engineering portfolio →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Himath2002?tab=repositories"><strong>Explore the source →</strong></a>
+</p>
+
 ## Hello, I’m Himath
 
-I’m a Software Engineering undergraduate who enjoys solving the whole problem—not only writing the first version of the code.
+I’m a Software Engineer who enjoys solving the whole problem—not only writing the first version of the code. I completed my degree with **Distinction**, an **80.63 Course Weighted Average**, and four consecutive periods on the **Dean’s List**.
 
 I can move from requirements and architecture into implementation, data, debugging, testing, security-aware review, automation, and delivery. I’m deliberately building range across web, mobile, applications, games, systems, databases, quality engineering, and cybersecurity because useful engineers need to understand how the pieces affect one another.
 
@@ -65,5 +71,5 @@ I can move from requirements and architecture into implementation, data, debuggi
 The repositories pinned below are evidence of this approach in different problem spaces—not the boundary of what I can do. More web, application, game, quality, security, data, and systems work will join them as it is ready to be reviewed professionally.
 
 <p align="center">
-  <a href="https://github.com/Himath2002?tab=repositories"><strong>Explore the repositories →</strong></a>
+  <a href="https://himath2002.github.io/"><strong>Experience the portfolio →</strong></a>
 </p>
