@@ -9,7 +9,7 @@
 
   <rect width="1440" height="650" rx="32" fill="#F1F7F5"/>
   <text x="72" y="76" fill="#163D39" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="760">One engineer, the full problem lifecycle</text>
-  <text x="72" y="112" fill="#56706D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">I move where the problem needs me—from first idea to dependable operation.</text>
+  <text x="72" y="112" fill="#56706D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">I move where the problem needs me - from first idea to dependable operation.</text>
 
   <path d="M170 242H1270" fill="none" stroke="#B8D5CF" stroke-width="4" stroke-linecap="round"/>
   <g fill="#168C7D">
