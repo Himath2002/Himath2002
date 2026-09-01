@@ -66,6 +66,13 @@ I can move from requirements and architecture into implementation, data, debuggi
 - **Document the real system.** Explain setup, decisions, trade-offs, and limitations that actually exist in the implementation.
 - **Finish professionally.** A solution is not complete until someone else can inspect, run, maintain, and trust it.
 
+## Contact
+
+- **Email:** [himath695@gmail.com](mailto:himath695@gmail.com)
+- **Phone:** [+94 76 580 6130](tel:+94765806130)
+- **LinkedIn:** [Himath Ahangama](https://www.linkedin.com/in/himath-ahangama-a361a3402)
+- **WhatsApp:** [Start a direct chat](https://wa.me/94765806130)
+
 ## Always expanding the range
 
 The repositories pinned below are evidence of this approach in different problem spaces—not the boundary of what I can do. More web, application, game, quality, security, data, and systems work will join them as it is ready to be reviewed professionally.
