@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Himath Ahangama — Software Engineering graduate with full-spectrum practice" width="100%">
+  <img src="assets/profile-hero.svg" alt="Himath Ahangama - Software Engineer with full-spectrum practice" width="100%">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Hello, I’m Himath
 
-I’m a Software Engineer and Software Engineering graduate who enjoys solving the whole problem—not only writing the first version of the code. I completed my degree with **Distinction**, an **80.63 Course Weighted Average**, and four consecutive periods on the **Dean’s List**.
+I’m a Software Engineer who enjoys solving the whole problem - not only writing the first version of the code. I completed a **Bachelor of Computing, Software Engineering Major**, with **Distinction**, an **80.63 Course Weighted Average**, and four consecutive periods on the **Dean’s List**.
 
 I can move from requirements and architecture into implementation, data, debugging, testing, security-aware review, automation, and delivery. I’m deliberately building range across web, mobile, applications, games, systems, databases, quality engineering, and cybersecurity because useful engineers need to understand how the pieces affect one another.
 
@@ -75,7 +75,7 @@ I can move from requirements and architecture into implementation, data, debuggi
 
 ## Always expanding the range
 
-The repositories pinned below are evidence of this approach in different problem spaces—not the boundary of what I can do. More web, application, game, quality, security, data, and systems work will join them as it is ready to be reviewed professionally.
+The repositories pinned below are evidence of this approach in different problem spaces - not the boundary of what I can do. More web, application, game, quality, security, data, and systems work will join them as it is ready to be reviewed professionally.
 
 <p align="center">
   <a href="https://himath2002.github.io/"><strong>Experience the portfolio →</strong></a>
