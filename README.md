@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Himath Ahangama — full-spectrum software engineering" width="100%">
+  <img src="assets/profile-hero.svg" alt="Himath Ahangama — Software Engineering graduate with full-spectrum practice" width="100%">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Hello, I’m Himath
 
-I’m a Software Engineer who enjoys solving the whole problem—not only writing the first version of the code. I completed my degree with **Distinction**, an **80.63 Course Weighted Average**, and four consecutive periods on the **Dean’s List**.
+I’m a Software Engineer and Software Engineering graduate who enjoys solving the whole problem—not only writing the first version of the code. I completed my degree with **Distinction**, an **80.63 Course Weighted Average**, and four consecutive periods on the **Dean’s List**.
 
 I can move from requirements and architecture into implementation, data, debugging, testing, security-aware review, automation, and delivery. I’m deliberately building range across web, mobile, applications, games, systems, databases, quality engineering, and cybersecurity because useful engineers need to understand how the pieces affect one another.
 
